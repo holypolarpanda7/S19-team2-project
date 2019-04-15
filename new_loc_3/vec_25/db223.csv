@@ -1,0 +1,4 @@
+SSID,MAC Address,PHY Type,RSSI,Signal Quality,Average Signal Quality,Frequency,Channel,Information Size,Elements Count,Company,Router Model,Router Name,Security,Cipher,Maximum Speed,Channel Width,Channels Range,BSS Type,WPS Support,First Detection,Last Detection,Detection Count,Start Time,Minimum Signal Quality,Maximum Signal Quality
+WLANMTSU,D8-84-66-13-10-00,802.11ac,-48,87,87.0,5.745,149,162,11,Extreme Networks,,,None,None,1170 Mbps,80 MHz,147 - 163,Infrastructure,No,4/11/2019 8:10:09 AM,4/11/2019 8:10:09 AM,1,4/11/2019 8:10:09 AM,87,87
+WLANMTSU,D8-84-66-12-E3-E0,802.11ac,-68,60,60.0,5.745,149,162,11,Extreme Networks,,,None,None,1170 Mbps,80 MHz,147 - 163,Infrastructure,No,4/11/2019 8:10:09 AM,4/11/2019 8:10:09 AM,1,4/11/2019 8:10:09 AM,60,60
+WLANMTSU,D8-84-66-13-0F-30,802.11ac,-74,32,32.0,5.745,149,162,11,Extreme Networks,,,None,None,1170 Mbps,80 MHz,147 - 163,Infrastructure,No,4/11/2019 8:10:09 AM,4/11/2019 8:10:09 AM,1,4/11/2019 8:10:09 AM,32,32
