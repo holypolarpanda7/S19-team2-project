@@ -10,7 +10,11 @@ In todays world we are more and more reliant on GPS and navigation to keep pace 
 Python 3 can be found at https://python.org/downloads/
 
 #### Jupyter Notebook
-Jupyter Notebook can be found at at https://jupyter.org/install
+Jupyter Notebook can be found at https://jupyter.org/install
+
+#### Wine
+Wine (windows executables on non-windows OS)found at
+https://wiki.winehq.org/Wine_Installation_and_Configuration
 
 ## Getting started:
 
