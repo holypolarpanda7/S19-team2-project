@@ -34,3 +34,4 @@ Once the files are setup correctly, modify the important key word numbers inside
 ### Conduct a PCA:
 
 open up demo_net.ipynb in the demo folder to continue with tutorial...
+https://github.com/CSCI4850/S19-team2-project/blob/master/Demo/demo_net.ipynb
