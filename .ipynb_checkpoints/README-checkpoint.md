@@ -4,6 +4,14 @@
 
 In todays world we are more and more reliant on GPS and navigation to keep pace with demands at work and home.  Our current GPS technology relies on microwaves, which are very broad signals.  This means that the accuracy of GPS is only precise to about 10 meters most of the time.  The signals are attenuated further by dense structures, like mountains and buildings.  We propose a way to use platforms that are readily available to provide indoor wireless localization.  We propose, the use of a wirless card/dongle, a feed forward neural network, and an evironment with at least a few wireless access points to achieve this goal in earnest.  This method has the potential to increase the effectivness of indoor navigation greatly.
 
+## Installing:
+
+#### Python 3 
+Python 3 can be found at https://python.org/downloads/
+
+#### Jupyter Notebook
+Jupyter Notebook can be found at at https://jupyter.org/install
+
 ## Getting started:
 
 To use this wifi localization Neural Network, you will have to fingerprint any number of locations you desire within the indoor space you wish to map.  To do so you will have to set up a machine that has a wifi card or a wireless dongle at each location to be fingerprinted, so a laptop or other mobile device is recommended.
