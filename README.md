@@ -52,3 +52,9 @@ Once the files are setup correctly, modify the important key word numbers inside
 
 open up demo_net.ipynb in the demo folder to continue with tutorial...
 https://github.com/CSCI4850/S19-team2-project/blob/master/Demo/demo_net.ipynb
+
+If this page does not load correctly it is because git can have trouble loading .ipynb files.
+You can open and view these files by following these steps...
+
+Open "https://nbviewer.jupyter.org/"
+Paste the link to your notebook, (e.g. "https://github.com/CSCI4850/S19-team2-project/blob/master/Demo/demo_net.ipynb") there and then you get "https://nbviewer.jupyter.org/github/CSCI4850/S19-team2-project/blob/master/Demo/demo_net.ipynb"
